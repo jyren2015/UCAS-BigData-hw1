@@ -13,7 +13,7 @@ HBase 0.98
 
 ## 目的：
 
-HDFS和HBase的基本编程使用
+MapReduce、HDFS和HBase的基本编程使用
 
 ## 功能：
 
